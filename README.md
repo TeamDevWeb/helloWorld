@@ -1,2 +1,4 @@
 # helloWorld
-Just a trial to start using git and github
+That's all....
+It's fantastic.
+Let's dev  together by sharing our knowledges 
